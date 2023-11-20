@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patsy Saurer</h1>
-<h3 align="center">A passionate full-stack developer from Chicago</h3>
+<h3 align="center">A passionate full-stack developer from Lisle, IL</h3>
 
 - 🔭 I’m currently working on [my portfolio](http://patsy-saurer-portfolio.onrender.com/)
 
