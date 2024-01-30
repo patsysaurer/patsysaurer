@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Patsy Saurer</h1>
-<h3 align="center">A passionate full-stack developer.</h3>
+<h1 align="left">Hi 👋🏽, I'm Patsy Saurer</h1>
 <p align="left">I enjoy the process of making an idea come to life using the power of programming. I am super passionate about learning how to develop beautiful, yet simplistic apps that can showcase my skills in the Tech Community. I am currently programming with React and Ruby on Rails.</p>
 <p align="left">In addition to my full-stack abilities, I have also taken a Google developer course to learn the modern technology framework for Android Apps. Android Studio and Kotlin are the building blocks I have learned to build Android Apps. As I continue to learn more I would love to explore opportunities in the health food industry.</p>
 <p align="left">I am ready for a new challenge that can enhance my programming abilities and allow my creativity to follow. If you have an opportunity that might fit my profile please send me a message and let's chat! Have a wonderful day :)</p>
