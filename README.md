@@ -7,7 +7,7 @@
 <p align="left">
     <table style="border: 1px solid grey">
     <tr>
-      <th>App/Back-End Development</th>
+      <th>Back-End Development</th>
         <td>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>   
